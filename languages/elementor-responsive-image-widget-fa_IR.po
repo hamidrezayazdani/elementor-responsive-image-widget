@@ -1,0 +1,160 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Elementor Responsive Image Widget By HamidReza "
+"Yazdani\n"
+"POT-Creation-Date: 2025-01-01 15:17+0330\n"
+"PO-Revision-Date: 2025-01-01 15:17+0330\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: elementor-responsive-image-widget.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#. translators: 1: Plugin name, 2: Elementor, 3: Elementor installation link
+#: elementor-responsive-image-widget.php:58
+#, php-format
+msgid "%1$s requires %2$s to be installed and activated. %3$s"
+msgstr ""
+
+#: elementor-responsive-image-widget.php:59
+msgid "Elementor Responsive Image Widget"
+msgstr ""
+
+#: elementor-responsive-image-widget.php:60
+msgid "Elementor"
+msgstr ""
+
+#: elementor-responsive-image-widget.php:61
+msgid "Install Elementor Now"
+msgstr ""
+
+#: includes/class-responsive-image-widget.php:29
+msgid "Responsive Image"
+msgstr ""
+
+#: includes/class-responsive-image-widget.php:58
+msgid "Desktop Image"
+msgstr ""
+
+#: includes/class-responsive-image-widget.php:65
+#: includes/class-responsive-image-widget.php:113
+#: includes/class-responsive-image-widget.php:161
+msgid "Choose Image"
+msgstr ""
+
+#: includes/class-responsive-image-widget.php:76
+#: includes/class-responsive-image-widget.php:124
+#: includes/class-responsive-image-widget.php:172
+msgid "Alt Text"
+msgstr ""
+
+#: includes/class-responsive-image-widget.php:78
+msgid "Enter alt text for desktop image"
+msgstr ""
+
+#: includes/class-responsive-image-widget.php:85
+#: includes/class-responsive-image-widget.php:133
+#: includes/class-responsive-image-widget.php:181
+msgid "Title"
+msgstr ""
+
+#: includes/class-responsive-image-widget.php:87
+msgid "Enter title for desktop image"
+msgstr ""
+
+#: includes/class-responsive-image-widget.php:94
+#: includes/class-responsive-image-widget.php:142
+#: includes/class-responsive-image-widget.php:190
+msgid "Caption"
+msgstr ""
+
+#: includes/class-responsive-image-widget.php:96
+msgid "Enter caption for desktop image"
+msgstr ""
+
+#: includes/class-responsive-image-widget.php:106
+msgid "Tablet Image"
+msgstr ""
+
+#: includes/class-responsive-image-widget.php:126
+msgid "Enter alt text for tablet image"
+msgstr ""
+
+#: includes/class-responsive-image-widget.php:135
+msgid "Enter title for tablet image"
+msgstr ""
+
+#: includes/class-responsive-image-widget.php:144
+msgid "Enter caption for tablet image"
+msgstr ""
+
+#: includes/class-responsive-image-widget.php:154
+msgid "Mobile Image"
+msgstr ""
+
+#: includes/class-responsive-image-widget.php:174
+msgid "Enter alt text for mobile image"
+msgstr ""
+
+#: includes/class-responsive-image-widget.php:183
+msgid "Enter title for mobile image"
+msgstr ""
+
+#: includes/class-responsive-image-widget.php:192
+msgid "Enter caption for mobile image"
+msgstr ""
+
+#: includes/class-responsive-image-widget.php:202
+msgid "Style"
+msgstr ""
+
+#: includes/class-responsive-image-widget.php:210
+msgid "Width"
+msgstr ""
+
+#: includes/class-responsive-image-widget.php:234
+msgid "Height"
+msgstr ""
+
+#: includes/class-responsive-image-widget.php:259
+msgid "Border"
+msgstr ""
+
+#: includes/class-responsive-image-widget.php:267
+msgid "Border Radius"
+msgstr ""
+
+#: includes/class-responsive-image-widget.php:280
+msgid "Box Shadow"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Elementor Responsive Image Widget By HamidReza Yazdani"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://example.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"A lightweight Elementor widget to add responsive images with captions, "
+"titles, alt text, and advanced styling options."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "HamidReza Yazdani"
+msgstr ""
