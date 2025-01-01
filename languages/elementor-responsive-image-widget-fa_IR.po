@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Elementor Responsive Image Widget By HamidReza "
 "Yazdani\n"
-"POT-Creation-Date: 2025-01-01 15:17+0330\n"
-"PO-Revision-Date: 2025-01-01 15:17+0330\n"
+"POT-Creation-Date: 2025-01-01 15:22+0330\n"
+"PO-Revision-Date: 2025-01-01 15:22+0330\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: fa_IR\n"
@@ -145,7 +145,6 @@ msgid "Elementor Responsive Image Widget By HamidReza Yazdani"
 msgstr ""
 
 #. Plugin URI of the plugin/theme
-#. Author URI of the plugin/theme
 msgid "https://example.com/"
 msgstr ""
 
@@ -157,4 +156,8 @@ msgstr ""
 
 #. Author of the plugin/theme
 msgid "HamidReza Yazdani"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://github.com/hamidrezayazdani"
 msgstr ""

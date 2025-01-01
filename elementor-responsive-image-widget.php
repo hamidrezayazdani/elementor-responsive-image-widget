@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Elementor Responsive Image Widget By HamidReza Yazdani
  * Description: A lightweight Elementor widget to add responsive images with captions, titles, alt text, and advanced styling options.
- * Plugin URI: https://example.com/
+ * Plugin URI: https://github.com/hamidrezayazdani/elementor-responsive-image-widget/
  * Version: 1.0.0
  * Author: HamidReza Yazdani
  * Author URI: https://github.com/hamidrezayazdani
